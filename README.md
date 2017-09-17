@@ -5,14 +5,14 @@ This is a list of my projects on Artificial Intelligence, Pattern Recognition an
 
 Projects on Computational Graphics.
 
-### [Computational Graphics](https://github.com/JuanSensio/AIprojects/tree/gh-pages/DI/CG)
+### [Computational Graphics](https://github.com/JuanSensio/AIprojects/tree/master/DI/CG)
 - WebGL basic example.
 
 ## Pattern Recognition
 
 Projects on Computational Language.
 
-### [Computational Language](https://github.com/JuanSensio/AIprojects/tree/gh-pages/PR/CL)
+### [Computational Language](https://github.com/JuanSensio/AIprojects/tree/master/PR/CL)
 - Word detection.
 
 ## Author
