@@ -1,0 +1,25 @@
+<!doctype html>
+<!--
+  Pagina basica de carga de scripts
+-->
+<html lang="es">
+
+<head>
+  <meta charset="utf8">
+  <title> Plantilla WebGL </title>
+  <style>
+    body{ background-color:white; margin: opx; overflow: hidden; }
+    canvas{ background-color: grey; }
+  </style>
+</head>
+
+<body onload="main()">
+  <canvas id="canvas" width="600" height="400">
+  <script src="lib/webgl-utils.js"></script>
+  <script src="lib/webgl-debug.js"></script>
+  <script src="lib/cuon-utils.js"></script>
+  <script src="lib/cuon-matrix.js"></script>
+  <script src="js/clicarLinea.js"></script>
+</body>
+
+</html>
