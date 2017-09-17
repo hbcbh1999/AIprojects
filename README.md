@@ -1,8 +1,20 @@
-# AIprojects
-My projects on Artificial Intelligences on the following fields:
+# AI Projects
+This is a list of my projects on Artificial Intelligence, Pattern Recognition and Digital Imaging. You can find them in my  [github](https://github.com/JuanSensio/AIprojects) page.
 
-## Computational Gprahics
+## Digital Imaging
+
+Projects on Computational Graphics.
+
+### Computational Graphics
 - WebGL basic example.
 
-## Computational Language
+## Pattern Recognition
+
+Projects on Computational Language. 
+
+### Computational Language
 - Word detection.
+
+## Author
+
+* **Juan Sensio** - *juansensio03@gmail.com* -
