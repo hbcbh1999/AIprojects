@@ -1,5 +1,8 @@
 # AIprojects
 My projects on Artificial Intelligences on the following fields:
 
-# Computational Language
+## Computational Gprahics
+- WebGL basic example.
+
+## Computational Language
 - Word detection.
