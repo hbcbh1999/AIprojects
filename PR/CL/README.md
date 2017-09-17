@@ -3,7 +3,7 @@ This is a list of my projects on Computational Language.
 
 ## Word detection
 
-[wd.py](https://github.com/JuanSensio/AIprojects/blob/master/PR/CL/wd.py) is a Python script that is able to identify words in a chain.
+[wd.py](https://juansensio.github.io/AIprojects/PR/CL/wd.html) is a Python script that is able to identify words in a chain.
 The language is Spanish.
 It prints a list with category frequency, word frequency and the corresponding
 category frequency, bigram frequency and finally the lexicon and emission
