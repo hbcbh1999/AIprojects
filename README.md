@@ -5,7 +5,7 @@ This is a list of my projects on Artificial Intelligence, Pattern Recognition an
 
 Projects on Artificial Intelligence.
 
-### [Artificial Intelligence](https://github.com/JuanSensio/AIprojects/tree/master/PR/CL)
+### [Artificial Intelligence](https://github.com/JuanSensio/AIprojects/tree/master/AI)
 - Genetic Algorithms.
 
 ## Digital Imaging
