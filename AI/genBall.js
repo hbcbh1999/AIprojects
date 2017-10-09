@@ -82,7 +82,7 @@ function Ball(scene) {
 function Population() {
     // atributos
     this.balls = [];
-    this.size = 300;
+    this.size = 100;
     this.cnt = 0;
     this.pool = [];
 
