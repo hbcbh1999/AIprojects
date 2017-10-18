@@ -13,7 +13,8 @@ Projects on Artificial Intelligence.
 Projects on Computational Graphics.
 
 ### [Computational Graphics](https://github.com/JuanSensio/AIprojects/tree/master/DI/CG)
-- WebGL basic example.
+- WebGL polyline basic example.
+- Three.js robota arm.
 
 ## Pattern Recognition
 
