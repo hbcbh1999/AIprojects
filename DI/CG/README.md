@@ -7,6 +7,9 @@ This is a list of my projects on Computational Graphics.
 points appear. Their color fades with respect to the center of the canvas
 and lines connect them. 
 
+[robot.html](https://juansensio.github.io/AIprojects/DI/CG/robot.html) is a Three.js example of a robot arm with basic
+materials, textures, lightning and interaction.
+
 ## Author
 
 * **Juan Sensio** - *juansensio03@gmail.com* -
