@@ -105,7 +105,7 @@ function Robot() {
         this.brazo.add(esp)
     }
     this.loadRotula = function() {
-        rot = new THREE.Mesh(new THREE.SphereGeometry( rRotula, 32, 32 ),new THREE.MeshBasicMaterial({color:"green",wireframe:true}))
+        rot = new THREE.Mesh(new THREE.SphereGeometry( rRotula, 32, 32 ),this.matRot)
         rot.position.set(0.,espL+0.5*hBase,0.)
         this.brazo.add(rot)
     }
