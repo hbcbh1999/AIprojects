@@ -14,7 +14,7 @@ Projects on Computational Graphics.
 
 ### [Computational Graphics](https://github.com/JuanSensio/AIprojects/tree/master/DI/CG)
 - WebGL polyline basic example.
-- Three.js robota arm.
+- Three.js robot arm.
 
 ## Pattern Recognition
 
