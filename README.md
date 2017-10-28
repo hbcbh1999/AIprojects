@@ -1,28 +1,13 @@
 # AI Projects
-This is a list of my projects on Artificial Intelligence, Pattern Recognition and Digital Imaging. 
+This is a list of my projects on Artificial Intelligence and Computer Graphics 
 
 ## Artificial Intelligence
 
-Projects on Artificial Intelligence.
+- [Genetic Algorithms](https://juansensio.github.io/AIprojects/webGL/gen.html).
+- [Simulated Annealing](https://juansensio.github.io/AIprojects/webGL/gen.html)
 
-### [Artificial Intelligence](https://github.com/JuanSensio/AIprojects/tree/master/AI)
-- Genetic Algorithms.
-
-## Digital Imaging
-
-Projects on Computational Graphics.
-
-### [Computational Graphics](https://github.com/JuanSensio/AIprojects/tree/master/DI/CG)
-- WebGL polyline basic example.
-- Three.js robot arm.
-
-## Pattern Recognition
-
-Projects on Computational Language.
-
-### [Computational Language](https://github.com/JuanSensio/AIprojects/tree/master/PR/CL)
-- Word detection.
-
-## Author
+## Computer Graphics
+- WebGL [polyline](https://juansensio.github.io/AIprojects/webGL/dots$lines.html) basic example.
+- Three.js [robot arm](https://juansensio.github.io/AIprojects/webGL/robot.html).
 
 * **Juan Sensio** - *juansensio03@gmail.com* -
