@@ -1,0 +1,56 @@
+#about {
+    text-align: center;
+}
+
+.main {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+#container {
+}
+body { 
+    background-color: black; 
+    margin: opx; 
+    overflow: hidden; 
+}
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+h1 {
+    color: rgba(255,255,255,0.8);
+    font-size: 60px;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    text-align: center;
+    margin: 10px auto;    
+}  
+h2 {
+    color: rgba(255,255,255,0.6);   
+    font-size: 24px;
+    font-weight: 200;
+    font-family: Georgia;
+    text-align: center;
+    margin: 10px auto;
+}
+h3 {
+    color: rgba(255,255,255,0.8);  
+    font-size: 30px;
+    font-weight: 400;
+    font-family: Georgia;
+    text-align: left;
+    margin: 10px auto;
+}
+p {
+    color: rgba(255,255,255,0.7);   
+    margin: 16px 0;
+    font-size: 18px;
+}
+
+
+.border {
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 50% ;
+}
+
