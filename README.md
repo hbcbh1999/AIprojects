@@ -1,6 +1,12 @@
 # AI Projects
 This is a list of my projects on Artificial Intelligence and Computer Graphics.
 
+## Artificial Neural Networks
+
+- My first [Neural Network](https://juansensio.github.io/AIprojects/ANN/percep1.ipynb), a simple single-layer 
+Perceptron for 2 classes classification with custom data.
+
+
 ## Artificial Intelligence
 
 - [Genetic Algorithms](https://juansensio.github.io/AIprojects/webGL/gen.html).
