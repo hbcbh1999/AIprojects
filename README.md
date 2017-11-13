@@ -4,7 +4,7 @@ This is a list of my projects on Artificial Intelligence and Computer Graphics.
 ## [Artificial Neural Networks](https://github.com/JuanSensio/AIprojects/blob/master/ANN)
 
 - My first [Neural Network](https://github.com/JuanSensio/AIprojects/blob/master/ANN/perceptron/perceptron.ipynb), a simple single-layer 
-Perceptron for 2 classes classification with custom data.
+Perceptron for classification with custom data.
 
 
 ## Artificial Intelligence
