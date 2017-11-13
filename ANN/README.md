@@ -7,6 +7,9 @@ This is a list of my projects on Artificial Neural Networks.
 Perceptron for 2 classes classification with custom data.
 - An update on my first [Neural Network](https://github.com/JuanSensio/AIprojects/blob/master/ANN/perceptron/per3d2c.ipynb), now with three-dimensional data.
 - An update on my first [Neural Network](https://github.com/JuanSensio/AIprojects/blob/master/ANN/perceptron/per2c.ipynb), now with multi-dimensional data.
+- An update on my first [Neural Network](https://github.com/JuanSensio/AIprojects/blob/master/ANN/perceptron/per2d.ipynb), two-dimensional multi-class data.
+- An update on my first [Neural Network](https://github.com/JuanSensio/AIprojects/blob/master/ANN/perceptron/per3d.ipynb), three-dimensional multi-dimensional data.
+
 
 ## Author
 
