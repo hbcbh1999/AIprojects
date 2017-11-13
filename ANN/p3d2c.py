@@ -1,8 +1,9 @@
 import numpy as np 
 import random
 import matplotlib.pyplot as plt 
+from mpl_toolkits.mplot3d import Axes3D
 
-class Perceptron:
+class Perceptron3d2c:
     # init preceptron
     def __init__(self,a = 0.1,b = 0.1,itMax = 100, ploter=False):
         # parameters
@@ -11,16 +12,16 @@ class Perceptron:
         self.itMax = itMax
         self.ploter = ploter
         # init weights
-        self.w = np.zeros(2)    
+        self.w = np.zeros(3)    
         self.w0 = 0.
         # 2 classes (+1, -1)
-        self.c = np.zeros(2)
-    # setters
-    def setC(self,c):
-        self.c = c
+        self.c = np.zeros(3)
     # train perceptron
-    def train(self,x):
+    def train(self,data):
         it = 0
+        # extract labels
+        self.c = data[:,3]
+        x = data[:,0:3]
         # random acces to data
         arr = list(range(len(x)))
         random.shuffle(arr)        
@@ -34,7 +35,7 @@ class Perceptron:
                     self.w0 += self.a*self.c[i]
                     error += 1
             if self.ploter:
-                self.plot(x,tit="iteration "+str(it))
+                self.plot(data,tit="iteration "+str(it))
             if error == 0 or it >= self.itMax:
                 break;
         print("w = ",self.w)
@@ -50,21 +51,30 @@ class Perceptron:
         else:
             return -1    
     # plot 
-    def plot(self,x,tit=''):
-        plt.plot(
-            [j for i, j in enumerate(x[:,0]) if self.c[i] == 1],
-            [j for i, j in enumerate(x[:,1]) if self.c[i] == 1],
-            '.g'
+    def plot(self,x,tit='',test=[]):
+        fig = plt.figure()
+        ax = fig.add_subplot(111, projection='3d')  
+        ax.scatter(
+            [j for i, j in enumerate(x[:,0]) if x[i][3] == 1],
+            [j for i, j in enumerate(x[:,1]) if x[i][3] == 1],
+            [j for i, j in enumerate(x[:,2]) if x[i][3] == 1]
         )
-        plt.plot(
-            [j for i, j in enumerate(x[:,0]) if self.c[i] == -1],
-            [j for i, j in enumerate(x[:,1]) if self.c[i] == -1],
-            '.r'
+        ax.scatter(
+            [j for i, j in enumerate(x[:,0]) if x[i][3] == -1],
+            [j for i, j in enumerate(x[:,1]) if x[i][3] == -1],
+            [j for i, j in enumerate(x[:,2]) if x[i][3] == -1]
         )
+        if len(test) != 0:
+            ax.scatter(test[0],test[1],test[2])
         xp = np.arange(1,2,step=0.1)
-        yp = -(xp*self.w[0] + self.w0)/self.w[1]
-        plt.plot(xp,yp,'k')
+        yp = np.arange(0,1,step=0.1)
+        X, Y = np.meshgrid(xp, yp)
+        Z = -(X*self.w[0] + Y*self.w[1] + self.w0)/self.w[2]
+        ax.plot_wireframe(X,Y,Z)
         plt.title(tit)
+        ax.set_xlabel('X')
+        ax.set_ylabel('Y')
+        ax.set_zlabel('Z ')
         plt.show()
 
             

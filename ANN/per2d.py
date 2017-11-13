@@ -1,5 +1,5 @@
 import numpy as np
-from perceptron import Perceptron
+from p2d2c import Perceptron2d2c as Perceptron
 import matplotlib.pyplot as plt 
 
 # A simple preceptron example with custom 2D data
@@ -14,15 +14,15 @@ def main():
 
     # train perceptron
     nn = Perceptron(ploter=True) 
-    nn.setC(data["class"])
     M = len(data["class"])
-    x = np.zeros((M,2))
+    x = np.zeros((M,3))
     for i in range(M):
         x[i][0] = data["dim1"][i]
         x[i][1] = data["dim2"][i]
+        x[i][2] = data["class"][i]
     nn.train(x)          
     # plot results
-    nn.plot(x,'final')
+    # nn.plot(x,'final')
 
     # test perceptron
     testData = np.asarray([1.8,0.9])
