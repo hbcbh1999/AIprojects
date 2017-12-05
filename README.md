@@ -1,7 +1,7 @@
 # AI Projects
 This is a list of my projects on Artificial Intelligence and Computer Graphics.
 
-## [Deep Learning](https://github.com/JuanSensio/AIprojects/blob/master/DL)
+## Deep Learning
 
 - My first [Neural Network](https://github.com/JuanSensio/AIprojects/blob/master/DL/perceptron/perceptron.ipynb), a simple single-layer 
 Perceptron for classification with custom data.
