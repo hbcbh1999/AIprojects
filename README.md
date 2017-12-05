@@ -9,7 +9,7 @@ Perceptron for classification with custom data.
 ## Computer Graphics
 - Genetic & Simulated Annealing Algorithms [WebGL](https://juansensio.github.io/AIprojects/webGL/gen.html) visualization application.
 - Three.js [robot arm](https://juansensio.github.io/AIprojects/webGL/robot.html).
+- [Flappy Birds](https://juansensio.github.io/AIprojects/webGL/bird/index.html) WebGL clone.
 <!-- - WebGL [polyline](https://juansensio.github.io/AIprojects/webGL/dots&lines.html) basic example. -->
-- [Flappy Birds](https://juansensio.github.io/AIprojects/webGL/bird/index.html) WebGL clone .
 
 * **Juan Sensio** - *juansensio03@gmail.com* -
