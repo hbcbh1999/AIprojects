@@ -5,6 +5,8 @@ This is a list of my projects on Artificial Intelligence and Computer Graphics.
 
 - My first [Neural Network](https://github.com/JuanSensio/AIprojects/blob/master/DL/perceptron/perceptron.ipynb), a simple single-layer 
 Perceptron for classification with custom data.
+- A [multilayer preceptron](https://github.com/JuanSensio/AIprojects/blob/master/DL/mnist/mnist_keras1.py) for MNIST dataset classification
+with Keras. 
 
 ## Computer Graphics
 - Genetic & Simulated Annealing Algorithms [WebGL](https://juansensio.github.io/AIprojects/webGL/gen.html) visualization application.
