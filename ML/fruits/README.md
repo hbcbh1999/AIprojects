@@ -17,15 +17,18 @@ University of Michigan formatted the fruits data slightly
 and it can be downloaded from [here](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/fruit_data_with_colors.txt).
 The data is explored in the following files:
 
-* [data.ipynb]() : Data visualization.
-* : Training and test data sets creation.
+* [data.ipynb](https://github.com/JuanSensio/AIprojects/blob/master/ML/fruits/data.ipynb) : Data visualization.
+* [dataSet.py](https://github.com/JuanSensio/AIprojects/blob/master/ML/fruits/dataSet.py) : Training and test data sets creation.
 
 ## ML Algorithms
 
 Different models:
 
-* naive
-* ...
+* [K nearest neighbours](https://github.com/JuanSensio/AIprojects/blob/master/ML/fruits/KNN.ipynb)
+* [Naive Bayes](https://github.com/JuanSensio/AIprojects/blob/master/ML/fruits/NaiveBayes.ipynb)
+* [Linear Discriminant](https://github.com/JuanSensio/AIprojects/blob/master/ML/fruits/LinearDiscriminant.ipynb)
+* [Logistic Regression](https://github.com/JuanSensio/AIprojects/blob/master/ML/fruits/LogisticRegression.ipynb)
+* [Support Vector Machine](https://github.com/JuanSensio/AIprojects/blob/master/ML/fruits/SVM.ipynb)
 
 ## Author
 

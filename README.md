@@ -7,7 +7,7 @@ This is a list of my projects on Artificial Intelligence and Computer Graphics.
 Perceptron for classification with custom data.
 - A [multilayer preceptron](https://github.com/JuanSensio/AIprojects/blob/master/DL/mnist) for MNIST dataset classification
 with Keras and Tensorflow. 
-
+- ML algorithm comparison for [fruit](https://github.com/JuanSensio/AIprojects/tree/master/ML/fruits) classification.
 ## Computer Graphics
 - Genetic & Simulated Annealing Algorithms [WebGL](https://juansensio.github.io/AIprojects/webGL/gen.html) visualization application.
 - Three.js [robot arm](https://juansensio.github.io/AIprojects/webGL/robot.html).
