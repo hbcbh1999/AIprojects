@@ -9,7 +9,7 @@ This is a list of my projects on Artificial Neural Networks.
 ## Keras and Tensorflow
 
 - A [multilayer preceptron](https://github.com/JuanSensio/AIprojects/blob/master/DL/mnist) for MNIST dataset classification
-with Keras and Tensorflow. 
+with Keras. 
 - A CNN for [traffic signs](https://github.com/JuanSensio/AIprojects/blob/master/DL/traffic/trafficSigns.ipynb) recognition with Keras.
 - A CNN for [CIFAR](https://github.com/JuanSensio/AIprojects/blob/master/DL/cifar) image classification with Keras.
 
