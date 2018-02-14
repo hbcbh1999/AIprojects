@@ -12,7 +12,7 @@ with Keras.
 - ML algorithm comparison for [fruit](https://github.com/JuanSensio/AIprojects/tree/master/ML/fruits) classification.
 
 
-## Artifitial Intelligence
+## Artificial Intelligence
 
 - [PyNego](https://github.com/JuanSensio/AIprojects/tree/master/AI/PyNego) a bilateral automatic negotiation environment implemented in Python.
 
