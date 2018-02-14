@@ -1,5 +1,5 @@
-# Deep Learning
-This is a list of my projects on Artificial Neural Networks.
+# Machine Learning
+This is a list of my projects on Machine Learning.
 
 ## Implemeting neural networks from scratch
 
