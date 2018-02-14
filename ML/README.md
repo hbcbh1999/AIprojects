@@ -15,7 +15,7 @@ with Keras.
 
 ## Classification
 
-- [Fruit]() classification. 
+- [Fruit](https://github.com/JuanSensio/AIprojects/tree/master/ML/fruits) classification. 
 
 ## Author
 
