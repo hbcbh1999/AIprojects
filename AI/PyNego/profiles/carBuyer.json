@@ -1,0 +1,53 @@
+{
+    "price": {
+        "type": "range",
+        "range": [5000, 20000],
+        "w": 0.7,
+        "V": [
+            [0.1, 18000, 20000],
+            [0.3, 15000, 18000],
+            [0.5, 10000, 15000],
+            [0.8, 8000, 10000],
+            [1, 5000, 8000]
+        ]
+    },
+    "color": {
+        "type": "list",
+        "list": ["blue","red","green"],
+        "w": 0.1,
+        "V": [
+            [0.8, "blue"],
+            [0.5, "green"],
+            [1, "red"]
+        ]
+    },
+    "shape": {
+       "type": "list",
+       "list": ["berlina","sport","mono","SUV"],
+       "w": 0.05,
+        "V": [
+            [0.3, "berlina"],
+            [1, "sport"],
+            [0.5, "mono"],
+            [0.8, "SUV"]
+        ]
+    },
+    "finishing": {
+        "type": "list",
+        "list": ["cheap","luxury"],
+        "w": 0.05,
+        "V": [
+            [0.5, "cheap"],
+            [1, "luxury"]
+        ]
+    },
+    "abs": {
+        "type": "list",
+        "list": ["yes"],
+        "w": 0.1,
+        "V": [
+            [0, "no"],
+            [1, "yes"]
+        ]
+    }   
+}
