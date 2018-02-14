@@ -1,4 +1,4 @@
-#AI Projects
+# AI Projects
 This is a list of my projects on Artificial Intelligence and Computer Graphics.
 
 ## [Machine Learning](https://github.com/JuanSensio/AIprojects/tree/master/ML)
