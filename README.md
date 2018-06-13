@@ -1,7 +1,8 @@
 # AI Projects
-This is a list of my projects on Artificial Intelligence and Computer Graphics.
+This is a list of my projects on Artificial Intelligence and Computer Graphics. 
+Almost every project is done with Python, some simple implementations with numpy and more complicated projects done with Tensorflow, Keras and Pytorch. There are also a couple of web applications built with Javascript ad WebGL.
 
-## [Machine Learning](https://github.com/JuanSensio/AIprojects/tree/master/ML)
+## Machine Learning
 
 - A simple single-layer [Perceptron](https://github.com/JuanSensio/AIprojects/blob/master/ML/perceptron/perceptron.ipynb) for classification with custom data.
 - A single-layer feed-forward [Neural Network](https://github.com/JuanSensio/AIprojects/blob/master/ML/nn/nn.py) with activation function and backpropagation implemented in Python.
@@ -18,7 +19,6 @@ with Keras.
 - [Style transfer](https://github.com/JuanSensio/AIprojects/tree/master/CV/style.ipynb)
 - [Gender recognition](https://github.com/JuanSensio/AIprojects/tree/master/CV/gender.ipynb)
 - [Image colorization](https://github.com/JuanSensio/AIprojects/tree/master/CV/color.ipynb)
-
 
 ## Artificial Intelligence
 
@@ -37,5 +37,7 @@ with Keras.
 - Three.js [robot arm](https://juansensio.github.io/AIprojects/webGL/robot.html).
 - [Flappy Birds](https://juansensio.github.io/AIprojects/webGL/bird/index.html) WebGL clone.
 <!-- - WebGL [polyline](https://juansensio.github.io/AIprojects/webGL/dots&lines.html) basic example. -->
+
+## Author
 
 * **Juan Sensio** - *juansensio03@gmail.com* -
