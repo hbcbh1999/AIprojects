@@ -14,11 +14,11 @@ with Keras.
 
 ## Computer Vision
 
-- Webapp for [Object classification](https://juansensio.github.io/tfjs/) using on-device camera implemented with [Tensorflow.js](https://js.tensorflow.org/)
+- Webapp for [Object classification](https://juansensio.github.io/tfjs/) using on-device camera implemented with [Tensorflow.js](https://js.tensorflow.org/).
 - [YOLO](https://github.com/JuanSensio/AIprojects/tree/master/CV/yolo) v3 Pytorch implementation.
-- [Style transfer](https://github.com/JuanSensio/AIprojects/tree/master/CV/style.ipynb)
-- [Gender recognition](https://github.com/JuanSensio/AIprojects/tree/master/CV/gender.ipynb)
-- [Image colorization](https://github.com/JuanSensio/AIprojects/tree/master/CV/color.ipynb)
+- [Style transfer](https://github.com/JuanSensio/AIprojects/tree/master/CV/style.ipynb).
+- [Gender recognition](https://github.com/JuanSensio/AIprojects/tree/master/CV/gender.ipynb).
+- [Image colorization](https://github.com/JuanSensio/AIprojects/tree/master/CV/color.ipynb).
 
 ## Artificial Intelligence
 
