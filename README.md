@@ -16,6 +16,12 @@ with Keras.
 
 - [PyNego](https://github.com/JuanSensio/AIprojects/tree/master/AI/PyNego) a bilateral automatic negotiation environment implemented in Python.
 
+## Biometrics
+
+- Compute the [ROC](https://github.com/JuanSensio/AIprojects/tree/master/BIO/roc.py) curve.
+- [Eigen Faces](https://github.com/JuanSensio/AIprojects/tree/master/BIO/eigenfaces.ipynb) for face recognition.
+- [Fisher Faces](https://github.com/JuanSensio/AIprojects/tree/master/BIO/fisher.ipynb) for face recognition.
+
 ## Computer Graphics
 
 - Genetic & Simulated Annealing Algorithms [WebGL](https://juansensio.github.io/AIprojects/webGL/gen.html) visualization application.
