@@ -11,10 +11,19 @@ with Keras.
 - A CNN for [CIFAR](https://github.com/JuanSensio/AIprojects/blob/master/ML/cifar) image classification with Keras.
 - ML algorithm comparison for [fruit](https://github.com/JuanSensio/AIprojects/tree/master/ML/fruits) classification.
 
+## Computer Vision
+
+- Webapp for [Object classification](https://juansensio.github.io/tfjs/) using on-device camera implemented with [Tensorflow.js](https://js.tensorflow.org/)
+- [YOLO](https://github.com/JuanSensio/AIprojects/tree/master/CV/yolo) v3 Pytorch implementation.
+- [Style transfer](https://github.com/JuanSensio/AIprojects/tree/master/CV/style.ipynb)
+- [Gender recognition](https://github.com/JuanSensio/AIprojects/tree/master/CV/gender.ipynb)
+- [Image colorization](https://github.com/JuanSensio/AIprojects/tree/master/CV/color.ipynb)
+
 
 ## Artificial Intelligence
 
 - [PyNego](https://github.com/JuanSensio/AIprojects/tree/master/AI/PyNego) a bilateral automatic negotiation environment implemented in Python.
+- [NegoJS](https://juansensio.github.io/negoJS/) a multi-agent automatic negotiation environment.
 
 ## Biometrics
 
