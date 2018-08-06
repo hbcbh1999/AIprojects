@@ -1,6 +1,6 @@
 # AI Projects
 This is a list of my projects on Artificial Intelligence and Computer Graphics. 
-Almost every project is done with Python, some simple implementations with numpy and more complicated projects done with Tensorflow, Keras and Pytorch. There are also a couple of web applications built with Javascript ad WebGL.
+Almost every project is done with Python, some simple implementations with numpy and more complicated projects done with Tensorflow, Keras and Pytorch. There are also a couple of web applications built with Javascript and WebGL.
 
 ## Machine Learning
 
